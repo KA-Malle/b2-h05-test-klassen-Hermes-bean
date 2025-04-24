@@ -1,0 +1,10 @@
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.exe.config
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.exe
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.pdb
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon Josse Denis.csproj.AssemblyReference.cache
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test_H5_Klasse_Pokemon_LEEG.Form1.resources
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test_H5_Klasse_Pokemon_LEEG.Properties.Resources.resources
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon Josse Denis.csproj.GenerateResource.cache
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon Josse Denis.csproj.CoreCompileInputs.cache
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.exe
+D:\softwareontwikkeling\git_Hermes\b2-h05-test-klassen-Hermes-bean\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.pdb

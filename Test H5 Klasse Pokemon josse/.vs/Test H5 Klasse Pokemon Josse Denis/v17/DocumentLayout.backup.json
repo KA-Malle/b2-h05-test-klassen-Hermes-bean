@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274EBAB5-AB48-4D81-9567-1647661962AF}|Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG.csproj|d:\\softwareontwikkeling\\git_hermes\\b2-h05-test-klassen-hermes-bean\\test h5 klasse pokemon leeg\\test h5 klasse pokemon leeg\\speler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274EBAB5-AB48-4D81-9567-1647661962AF}|Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG.csproj|solutionrelative:test h5 klasse pokemon leeg\\speler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274EBAB5-AB48-4D81-9567-1647661962AF}|Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG.csproj|d:\\softwareontwikkeling\\git_hermes\\b2-h05-test-klassen-hermes-bean\\test h5 klasse pokemon leeg\\test h5 klasse pokemon leeg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274EBAB5-AB48-4D81-9567-1647661962AF}|Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG.csproj|solutionrelative:test h5 klasse pokemon leeg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274EBAB5-AB48-4D81-9567-1647661962AF}|Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG.csproj|d:\\softwareontwikkeling\\git_hermes\\b2-h05-test-klassen-hermes-bean\\test h5 klasse pokemon leeg\\test h5 klasse pokemon leeg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274EBAB5-AB48-4D81-9567-1647661962AF}|Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG.csproj|solutionrelative:test h5 klasse pokemon leeg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG\\Form1.cs",
+              "RelativeDocumentMoniker": "Test H5 Klasse Pokemon LEEG\\Form1.cs",
+              "ToolTip": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG\\Form1.cs",
+              "RelativeToolTip": "Test H5 Klasse Pokemon LEEG\\Form1.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:08:41.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Speler.cs",
+              "DocumentMoniker": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG\\Speler.cs",
+              "RelativeDocumentMoniker": "Test H5 Klasse Pokemon LEEG\\Speler.cs",
+              "ToolTip": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG\\Speler.cs",
+              "RelativeToolTip": "Test H5 Klasse Pokemon LEEG\\Speler.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwGUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:44:09.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG\\Form1.cs",
+              "RelativeDocumentMoniker": "Test H5 Klasse Pokemon LEEG\\Form1.cs",
+              "ToolTip": "D:\\softwareontwikkeling\\git_Hermes\\b2-h05-test-klassen-Hermes-bean\\Test H5 Klasse Pokemon LEEG\\Test H5 Klasse Pokemon LEEG\\Form1.cs [Design]",
+              "RelativeToolTip": "Test H5 Klasse Pokemon LEEG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:43:28.76Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
